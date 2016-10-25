@@ -11,8 +11,8 @@ Otherwise the process will be blocked and wait until someon come and give/receiv
 
 #### Source
 
-[Go Tour](https://tour.golang.org/concurrency/2)
-[Go By Example](https://gobyexample.com/channels)
+* [Go Tour](https://tour.golang.org/concurrency/2)
+* [Go By Example](https://gobyexample.com/channels)
 
 ### Fanin/Fanout Pipeline pattern
 
