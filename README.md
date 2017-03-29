@@ -1,4 +1,4 @@
-GoMarsys Workshop Session 1
+GoWorkshop Session 1
 ===========================
 
 ## Helps
